@@ -1,0 +1,1 @@
+Makes the Ender Chest drop without Silk Touch.

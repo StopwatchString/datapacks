@@ -1,0 +1,1 @@
+Allows spawners to drop when Silk Touched.

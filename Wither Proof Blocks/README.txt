@@ -1,0 +1,1 @@
+Adds obsidian to the tag of Wither-Proof blocks.

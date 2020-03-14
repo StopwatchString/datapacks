@@ -1,0 +1,1 @@
+Removes all blocks from the "enderman_holdable" tag.
