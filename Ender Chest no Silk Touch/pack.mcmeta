@@ -1,0 +1,6 @@
+{
+	"pack":{
+		"pack_format":1,
+		"description": "Ender chests no longer require Silk Touch to drop."
+	}
+}

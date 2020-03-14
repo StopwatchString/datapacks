@@ -1,0 +1,6 @@
+{
+	"pack":{
+		"pack_format":1,
+		"description": "Allows spawners to drop when Silk Touched."
+	}
+}
